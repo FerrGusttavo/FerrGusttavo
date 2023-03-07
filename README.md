@@ -18,7 +18,7 @@
 <h2>Me chamo Gustavo Augusto...</h2>
 
 - 🧑‍💼 Atualmente estou em busca de estágio.
-- 📚 Estudando C#, Python e JavaScript.
+- 📚 Estudando C#, Python e React Native.
 - 💻 Área: Front-End And Back-End.
 - 😄 Hobby: Games & Séries.
 
