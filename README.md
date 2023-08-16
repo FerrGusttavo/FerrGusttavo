@@ -81,10 +81,6 @@ Currently, I am pursuing a degree in Systems Analysis and Development at PUC Min
 
 <br>
 
-![Snake animation](https://github.com/FerrGusttavo/FerrGusttavo/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-
 ![Gustavo Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrgusttavo&show_icons=true&theme=github_dark)
 
 <br>
