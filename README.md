@@ -36,9 +36,6 @@ Currently, I am pursuing a degree in Systems Analysis and Development at PUC Min
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://skillicons.dev/icons?i=cs" />
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
   <a href="https://nodejs.org/en">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
@@ -73,9 +70,6 @@ Currently, I am pursuing a degree in Systems Analysis and Development at PUC Min
   </a>
   <a href="https://www.postman.com/">
     <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
-  <a href="https://www.selenium.dev/">
-    <img src="https://skillicons.dev/icons?i=selenium" />
   </a>
 </div>
 
