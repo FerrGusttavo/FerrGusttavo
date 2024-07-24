@@ -4,8 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoaugustof/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ferrgusttavo/)
 
-Hailing from the interior of the Paraíba backlands in Northeast Brazil, I am a technology enthusiast with a strong passion for all things tech. My ardor for the field is unmistakable, always seeking to enhance my skills and swiftly absorb new knowledge.
-
 My journey in the world of technology encompasses various domains, including programming in languages like C#, Python, and JavaScript, as well as proficiency in web development using HTML and CSS. My expertise extends to the realm of DevOps and Linux-based systems, where I consistently strive to optimize processes.
 
 Currently, I am pursuing a degree in Systems Analysis and Development at PUC Minas, with an expected completion date in June 2024.
